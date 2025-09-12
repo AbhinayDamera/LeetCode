@@ -69,10 +69,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
