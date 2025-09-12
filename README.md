@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1013-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
