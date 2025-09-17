@@ -13,7 +13,9 @@ class Solution {
         }
         for (int i = 1; i < n; i++) {
             for (int j = 1; j < m; j++) {
-                dp[i][j] = Math.min(dp[i-1][j], dp[i][j-1]) + grid[i][j];
+                int left=dp[i-1][j];
+                int right=dp[i][j-1];
+                dp[i][j] = Math.min(left,right ) + grid[i][j];
             }
         }
         return dp[n-1][m-1];
