@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbhinayDamera/LeetCode/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
