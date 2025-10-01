@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/AbhinayDamera/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/AbhinayDamera/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
+| [1642-water-bottles](https://github.com/AbhinayDamera/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
