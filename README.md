@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Memoization
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -162,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
