@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhinayDamera/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
