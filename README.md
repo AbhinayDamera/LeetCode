@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AbhinayDamera/LeetCode/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AbhinayDamera/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
