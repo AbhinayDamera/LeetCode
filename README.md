@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
