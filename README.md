@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/AbhinayDamera/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
