@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
