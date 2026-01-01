@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhinayDamera/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhinayDamera/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AbhinayDamera/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0070-climbing-stairs) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AbhinayDamera/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AbhinayDamera/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AbhinayDamera/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
