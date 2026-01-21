@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinayDamera/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AbhinayDamera/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/AbhinayDamera/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbhinayDamera/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AbhinayDamera/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AbhinayDamera/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AbhinayDamera/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AbhinayDamera/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AbhinayDamera/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
