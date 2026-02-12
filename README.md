@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AbhinayDamera/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/AbhinayDamera/LeetCode/tree/master/1086-divisor-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AbhinayDamera/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AbhinayDamera/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/AbhinayDamera/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AbhinayDamera/LeetCode/tree/master/1086-divisor-game) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AbhinayDamera/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
