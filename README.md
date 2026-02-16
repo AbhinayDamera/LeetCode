@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AbhinayDamera/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/AbhinayDamera/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AbhinayDamera/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0917-reverse-only-letters](https://github.com/AbhinayDamera/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AbhinayDamera/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/AbhinayDamera/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AbhinayDamera/LeetCode/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
