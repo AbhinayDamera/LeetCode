@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1572-matrix-diagonal-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1839-decode-xored-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1839-decode-xored-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AbhinayDamera/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AbhinayDamera/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1572-matrix-diagonal-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
