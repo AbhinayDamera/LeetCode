@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinayDamera/LeetCode/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
