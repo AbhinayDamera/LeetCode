@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AbhinayDamera/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0917-reverse-only-letters](https://github.com/AbhinayDamera/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
