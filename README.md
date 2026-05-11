@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1839-decode-xored-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AbhinayDamera/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
 | [1642-water-bottles](https://github.com/AbhinayDamera/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhinayDamera/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
