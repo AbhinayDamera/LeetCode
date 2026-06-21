@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/AbhinayDamera/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/AbhinayDamera/LeetCode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/AbhinayDamera/LeetCode/tree/master/1693-daily-leads-and-partners) |
 ## Counting Sort
 |  |
 | ------- |
