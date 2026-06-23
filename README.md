@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhinayDamera/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/AbhinayDamera/LeetCode/tree/master/1544-make-the-string-great) |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AbhinayDamera/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AbhinayDamera/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/AbhinayDamera/LeetCode/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
 | ------- |
