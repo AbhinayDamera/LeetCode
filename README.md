@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AbhinayDamera/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AbhinayDamera/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/AbhinayDamera/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/AbhinayDamera/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AbhinayDamera/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/AbhinayDamera/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AbhinayDamera/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/AbhinayDamera/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhinayDamera/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
