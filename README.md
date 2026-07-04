@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AbhinayDamera/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhinayDamera/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0896-monotonic-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0896-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/1572-matrix-diagonal-sum) |
