@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0896-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhinayDamera/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1839-decode-xored-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1839-decode-xored-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhinayDamera/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
