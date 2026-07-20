@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/AbhinayDamera/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AbhinayDamera/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/AbhinayDamera/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/AbhinayDamera/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AbhinayDamera/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/1587-bank-account-summary-ii) |
