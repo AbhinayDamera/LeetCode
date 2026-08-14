@@ -23,8 +23,8 @@ class Solution {
     public String preOrderTraversal(TreeNode node){
         if(node==null) return "null";
 
-        StringBuilder sb=new StringBuilder();
-        sb.append("#").append(node.val); // separator
+        StringBuilder sb=new StringBuilder(" ");
+        sb.append(node.val); // separator
         sb.append(preOrderTraversal(node.left));
         sb.append(preOrderTraversal(node.right));
 
