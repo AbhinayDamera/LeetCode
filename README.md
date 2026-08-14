@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0796-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/AbhinayDamera/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Stack
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbhinayDamera/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
@@ -369,14 +371,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbhinayDamera/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbhinayDamera/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AbhinayDamera/LeetCode/tree/master/0739-daily-temperatures) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AbhinayDamera/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
