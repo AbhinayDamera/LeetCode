@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AbhinayDamera/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0794-swim-in-rising-water](https://github.com/AbhinayDamera/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0896-monotonic-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/AbhinayDamera/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AbhinayDamera/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinayDamera/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AbhinayDamera/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AbhinayDamera/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/AbhinayDamera/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AbhinayDamera/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhinayDamera/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/AbhinayDamera/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhinayDamera/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
