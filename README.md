@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbhinayDamera/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AbhinayDamera/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AbhinayDamera/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/AbhinayDamera/LeetCode/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhinayDamera/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/AbhinayDamera/LeetCode/tree/master/0739-daily-temperatures) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AbhinayDamera/LeetCode/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AbhinayDamera/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/AbhinayDamera/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AbhinayDamera/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AbhinayDamera/LeetCode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AbhinayDamera/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/AbhinayDamera/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AbhinayDamera/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
