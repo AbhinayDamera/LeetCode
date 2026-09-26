@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinayDamera/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AbhinayDamera/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AbhinayDamera/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AbhinayDamera/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AbhinayDamera/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbhinayDamera/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinayDamera/LeetCode/tree/master/0268-missing-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AbhinayDamera/LeetCode/tree/master/0146-lru-cache) |
 | [3797-design-spreadsheet](https://github.com/AbhinayDamera/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Combinatorics
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AbhinayDamera/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AbhinayDamera/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AbhinayDamera/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AbhinayDamera/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbhinayDamera/LeetCode/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbhinayDamera/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
