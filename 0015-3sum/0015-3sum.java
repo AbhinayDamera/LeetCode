@@ -2,13 +2,13 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        ArrayList<List<Integer>> result = new ArrayList<>();
         
         Arrays.sort(nums);  // Step 1: sort the array
         
         for (int i = 0; i < nums.length - 2; i++) {
             // Step 2: skip duplicate values for i
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+           if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int left = i + 1;
             int right = nums.length - 1;
